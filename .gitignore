@@ -1,2 +1,4 @@
-# Output
-out/
+__pycache__/
+*.pyc
+.DS_Store
+slides_png/
